@@ -1,0 +1,15 @@
+h1 {
+    color: hotpink;
+    text-align: center;
+  }
+  
+  h2 {
+    text-align: center;
+    color: red;
+  }
+  
+  h3 {
+    text-align: center;
+    background-color: hotpink;
+    color: blue;
+  }
